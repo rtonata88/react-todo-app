@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Are you learning React. This is a simple Todo App done in React. I found this amazing tutorial [React for Beginners](https://ibaslogic.com/react-tutorial-for-beginners/).
 
 ## Available Scripts
 
